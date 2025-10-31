@@ -2,6 +2,8 @@
 
 **Full-Stack Developer | AI Engineer | York, UK**
 
+ *Currently working on AI integration projects, and exploring the intersection of human creativity and artificial intelligence.*
+
 [![Commercial Portfolio](https://img.shields.io/badge/COMMERCIAL_PORTFOLIO-Click_Me-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://thomasjbutler.me)
 [![Portfolio Portfolio](https://img.shields.io/badge/PORTFOLIO_PORTFOLIO-Click_Me-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://thomasjbutler.github.io)
 [![Contact Me](https://img.shields.io/badge/Contact_Me-Click_Me-FF4433?style=for-the-badge&logo=vercel&logoColor=white)](https://thomasjbutler.github.io/#contact)
@@ -9,9 +11,11 @@
 ## A Bit About Me
 
 I'm a full-stack developer passionate about building human-oriented applications that empower people through technology. 
+
 My focus is on creating AI integrated systems, ethical AI models, and modern web applications that save time and energy on day to day tasks.
 
 I believe technology should enhance human capabilities, not replace them! 
+
 Every line of code I write is aimed at making technology more accessible, intuitive, and genuinely helpful. 
 
 ## Dev Values
@@ -23,10 +27,10 @@ Every line of code I write is aimed at making technology more accessible, intuit
 - **Accessibility** - Technology that not just works for humanity, but adapts to us too. Tech really SHOULD adart to us, not the other way around!
 
 - **Continuous Learning** - Always exploring new technologies and methods. I love learning and do this in my spare time, due to a passion for the craft.
+  
+## Live Tech Stacks 
 
-## Live Tech Stacks
-
-<table align="center">
+<table align="left">
 <tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
@@ -130,7 +134,3 @@ Every line of code I write is aimed at making technology more accessible, intuit
 </td>
 </tr>
 </table>
-
-*Currently working on AI integration projects and exploring the intersection of human creativity and artificial intelligence*
-
-[![Contact Me](https://img.shields.io/badge/Contact_Me-Click_Me-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://thomasjbutler.github.io/#contact)
