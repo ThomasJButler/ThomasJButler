@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | AI Engineer | York, UK**
 
- *Currently working on AI integration projects, and exploring the intersection of human creativity and artificial intelligence.*
+ *Currently working on AI integration projects, exploring the intersection of human creativity and artificial intelligence.*
 
 [![Commercial Portfolio](https://img.shields.io/badge/COMMERCIAL_PORTFOLIO-Click_Me-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://thomasjbutler.me)
 [![Portfolio Portfolio](https://img.shields.io/badge/PORTFOLIO_PORTFOLIO-Click_Me-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://thomasjbutler.github.io)
