@@ -113,8 +113,8 @@ Every line of code I write is aimed at making technology more accessible, intuit
 <br>OpenAI
 </td>
 <td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/langchain.svg" width="48" height="48" alt="LangChain" />
-<br>LangChain
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+<br>PyTorch
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
