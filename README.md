@@ -2,8 +2,8 @@
 
 **Full-Stack Developer | AI Engineer | York, UK**
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Click_Me-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://thomasjbutler.github.io)
-[![Commercial](https://img.shields.io/badge/COMMERCIAL-Click_Me-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://thomasjbutler.me)
+[![Commercial Portfolio](https://img.shields.io/badge/COMMERCIAL_PORTFOLIO-Click_Me-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://thomasjbutler.me)
+[![Portfolio Portfolio](https://img.shields.io/badge/PORTFOLIO_PORTFOLIO-Click_Me-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://thomasjbutler.github.io)
 [![Contact Me](https://img.shields.io/badge/Contact_Me-Click_Me-FF4433?style=for-the-badge&logo=vercel&logoColor=white)](https://thomasjbutler.github.io/#contact)
 
 ## A Bit About Me
