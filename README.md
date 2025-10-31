@@ -24,7 +24,7 @@ Every line of code I write is aimed at making technology more accessible, intuit
 
 - **Clean Code** - Maintainable, scalable, and efficient solutions with user privacy at the very heart of it. 
 
-- **Accessibility** - Technology that not just works for humanity, but adapts to us too. Tech really SHOULD adart to us, not the other way around!
+- **Accessibility** - Technology that not just works for humanity, but adapts to us too. Tech really SHOULD adapt to us, not the other way around!
 
 - **Continuous Learning** - Always exploring new technologies and methods. I love learning and do this in my spare time, due to a passion for the craft.
   
