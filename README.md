@@ -4,10 +4,9 @@
 
  *Currently working on AI integration projects, exploring the intersection of human creativity and artificial intelligence.*
 
-[![Commercial Portfolio](https://img.shields.io/badge/COMMERCIAL_PORTFOLIO-Click_Me-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://thomasjbutler.me)
-[![Portfolio Portfolio](https://img.shields.io/badge/PORTFOLIO_PORTFOLIO-Click_Me-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://thomasjbutler.github.io)
-[![AI Portfolio](https://img.shields.io/badge/AI_PORTFOLIO-Click_Me-FF1493?style=for-the-badge&logo=sparkles&logoColor=white)](https://mastering-ai-course-portfolio-dashb.vercel.app/)
-[![Contact Me](https://img.shields.io/badge/Contact_Me-Click_Me-FF4433?style=for-the-badge&logo=vercel&logoColor=white)](https://thomasjbutler.github.io/#contact)
+[![Commercial Portfolio](https://img.shields.io/badge/COMMERCIAL_PORTFOLIO-Click_Here-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://thomasjbutler.me)
+[![Portfolio Portfolio](https://img.shields.io/badge/PORTFOLIO_PORTFOLIO-Click_Here-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://thomasjbutler.github.io)
+[![AI Portfolio](https://img.shields.io/badge/AI_PORTFOLIO-Click_Here-FF1493?style=for-the-badge&logo=sparkles&logoColor=white)](https://mastering-ai-course-portfolio-dashb.vercel.app/)
 
 ## A Bit About Me
 
@@ -18,6 +17,8 @@ My focus is on creating AI integrated systems, ethical AI models, and modern web
 I believe technology should enhance human capabilities, not replace them! 
 
 Every line of code I write is aimed at making technology more accessible, intuitive, and genuinely helpful. 
+
+[![Contact Me](https://img.shields.io/badge/Contact_Me-Click_Here-FF4433?style=for-the-badge&logo=vercel&logoColor=white)](https://thomasjbutler.github.io/#contact)
 
 ## Dev Values
 
