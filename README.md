@@ -18,7 +18,7 @@ I believe technology should enhance human capabilities, not replace them!
 
 Every line of code I write is aimed at making technology more accessible, intuitive, and genuinely helpful. 
 
-[![Contact Me](https://img.shields.io/badge/Contact_Me-Click_Here-FF4433?style=for-the-badge&logo=vercel&logoColor=white)](https://thomasjbutler.github.io/#contact)
+[![Contact Me](https://img.shields.io/badge/Contact_Me-Click_Here-FF4433?style=for-the-badge&logo=vercel&logoColor=white)](https://www.thomasjbutler.me/#contact)
 
 ## Dev Values
 
