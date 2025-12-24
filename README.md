@@ -1,5 +1,3 @@
-# Thomas J Butler
-
 **Full-Stack Developer | AI Engineer | York, UK**
 
  *Currently working on AI integration projects, exploring the intersection of human creativity and artificial intelligence.*
@@ -10,26 +8,16 @@
 
 ## A Bit About Me
 
-I'm a full-stack developer passionate about building human-oriented applications that empower people through technology. 
+I'm a developer who is passionate about building human-oriented applications, that empower people through technology. 
 
-My focus is on creating AI integrated systems, ethical AI models, and modern web applications that save time and energy on day to day tasks.
+My focus is on creating AI integrated systems and modern web applications, that save time and energy on day to day tasks whilst being secure and ethical.
 
-I believe technology should enhance human capabilities, not replace them! 
+I believe technology should enhance human capabilities, not replace them 🤗
 
 Every line of code I write is aimed at making technology more accessible, intuitive, and genuinely helpful. 
 
 [![Contact Me](https://img.shields.io/badge/Contact_Me-Click_Here-FF4433?style=for-the-badge&logo=vercel&logoColor=white)](https://www.thomasjbutler.me/#contact)
 
-## Dev Values
-
-- **Human-Centered AI** - "Building bridges, not replacements."
-
-- **Clean Code** - Maintainable, scalable, and efficient solutions with user privacy at the very heart of it. 
-
-- **Accessibility** - Technology that not just works for humanity, but adapts to us too. Tech really SHOULD adapt to us, not the other way around!
-
-- **Continuous Learning** - Always exploring new technologies and methods. I love learning and do this in my spare time, due to a passion for the craft.
-  
 ## Live Tech Stacks 
 
 <table align="left">
