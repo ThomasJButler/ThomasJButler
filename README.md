@@ -23,6 +23,10 @@ I think software should give people time back, not take it from them. Most of wh
 
 The personal site is what I build when nobody is paying. The commercial site is the paid work. The second one is smaller, and that's the point as employers can see what I have been part of, and what I have built around it. This is honestly more than just a job for me and I am excited for where this career change will lead in the future. 
 
+Thanks for your time reading my profile. 
+
+Tom
+
 [![Contact Me](https://img.shields.io/badge/Contact_Me-Click_Here-FF4433?style=for-the-badge&logo=vercel&logoColor=white)](https://www.thomasjbutler.me/#contact)
 
 ## What I use now
