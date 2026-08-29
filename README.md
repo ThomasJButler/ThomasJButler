@@ -8,20 +8,17 @@
 
 ## A Bit About Me
 
-Career changer. Former Cricketer, Commercial Diver, Financial Paraplanner, then during covid - two years as a DWP Work Coach helping young people into their dream careers. After a while, I realised my own dream career was quite literally staring at me in the face through a computer screen. Have always been a nerd at heart, however too scared to really go for it and took the safe choices.
+Career changer. Former Cricketer, Commercial Diver, then a DWP Work Coach helping young people into their dream careers. After a while, I realised my own dream career was quite literally staring at me in the face through a computer screen. Have always been a nerd at heart, however too scared to really go for it and took the safe choices.
 
 I only took the plunge into software from a standing start in early 2022. Learning around my job and building things. 
 After that, I took a cloud and data engineering bootcamp, worked 18 months as an apprentice developer at a HubSpot agency. Since December 2024 I've been building on my own under AiTomatic: solo, self-funded (no clients yet) and a lot of shipping. 
 
-It's a win win as I never got into software for the paycheck, rather helping people at scale and utilise my creative thinking. Money is important in life of course, just if it means I earn less and love what I do, then that's all that matters to me. Life is about the journey after all. 
-
 I'm always aiming to learn and improve my code and fundamentals, as this is the only part of software that doesn't change every few years, and whatever I am learning I build a side project alongside it. Some of these projects have really kicked on since, and allow me to continue learning in that specific area over time.
 
-What I build -- RAG pipelines, multi-agent tooling, local AI systems, full stack web applications and my passion project Sanctuary, a fully private on-device iOS app for neurodiverse users, built from lived experience.
+What I build -- RAG pipelines, multi-agent tooling, websites + web apps, voice agents, local AI systems and full stack digital products. 
+Currently have a passion project to build Sanctuary, a fully private on device iOS app for neurodiverse minds.
 
 I think software should give people time back, not take it from them. Most of what I build is aimed at that, making tech adapt to humans and not the other way around 🤗
-
-The personal site is what I build when nobody is paying. The commercial site is the paid work. The second one is smaller, and that's the point as employers can see what I have been part of, and what I have built around it. This is honestly more than just a job for me and I am excited for where this career change will lead in the future. 
 
 Thanks for your time reading my profile. 
 
