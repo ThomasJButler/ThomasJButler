@@ -1,7 +1,5 @@
 **Full Stack Developer | Python & TypeScript | Evaluation-first AI systems | Leeds, Yorkshire**
 
-*Looking for full-time work: junior for general software, any non-senior level for AI. Building Sanctuary, the Offshore Property Map and The Kicker in the meantime.*
-
 [![Commercial Portfolio](https://img.shields.io/badge/COMMERCIAL_PORTFOLIO-Click_Here-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://thomasjbutler.me)
 [![Personal Portfolio](https://img.shields.io/badge/PERSONAL_PORTFOLIO-Click_Here-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://thomasjbutler.github.io)
 [![AI Portfolio](https://img.shields.io/badge/AI_PORTFOLIO-Click_Here-FF1493?style=for-the-badge&logo=sparkles&logoColor=white)](https://agenticaiprojectsportfolio.vercel.app/)
