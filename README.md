@@ -1,4 +1,4 @@
-**Full Stack Developer | Python & TypeScript | Evaluation-first AI systems | Leeds, Yorkshire**
+**Junior AI Agent Developer | Full Stack | Python & TypeScript | AI embedded systems | Chalfont St Giles, Buckinghamshire**
 
 [![Commercial Portfolio](https://img.shields.io/badge/COMMERCIAL_PORTFOLIO-Click_Here-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://thomasjbutler.me)
 [![Personal Portfolio](https://img.shields.io/badge/PERSONAL_PORTFOLIO-Click_Here-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://thomasjbutler.github.io)
@@ -6,15 +6,19 @@
 
 ## A Bit About Me
 
-Career changer. Former Cricketer, Commercial Diver, then a DWP Work Coach helping young people into their dream careers. After a while, I realised my own dream career was quite literally staring at me in the face through a computer screen. Have always been a nerd at heart, however too scared to really go for it and took the safe choices.
+Career changer. Former Pro Cricketer, Commercial Diver, then a DWP Work Coach helping young people into their dream careers. After a while, I realised my own dream career was quite literally staring at me in the face through a computer screen. Have always been a nerd at heart, however too scared to really go for it and took the safe choices (well, after the diving..!)
 
-I only took the plunge into software from a standing start in early 2022. Learning around my job and building things. 
-After that, I took a cloud and data engineering bootcamp, worked 18 months as an apprentice developer at a HubSpot agency. Since December 2024 I've been building on my own under AiTomatic: solo, self-funded (no clients yet) and a lot of shipping. 
+I only took the plunge (no pun intended) into software from a standing start in early 2022. Learning around my DWP job and building things, purely for fun. AI releasing in late 2022 inspired me to continue this journey, and embrace the tools that are a critical part of modern life today, and most probably, the future of software engineering.
 
-I'm always aiming to learn and improve my code and fundamentals, as this is the only part of software that doesn't change every few years, and whatever I am learning I build a side project alongside it. Some of these projects have really kicked on since, and allow me to continue learning in that specific area over time.
+I took a cloud and data engineering bootcamp in early 2023 and went on to work 18 months as an apprentice developer at a HubSpot agency in Cheshire. 
+From December 2024 I was building under a personal AI startup - fully solo, with a lot of shipping, whilst working the odd jobs to keep the lights on, and continue my development passion. 
 
-What I build -- RAG pipelines, multi-agent tooling, websites + web apps, voice agents, local AI systems and full stack digital products. 
-Currently have a passion project to build Sanctuary, a fully private on device iOS app for neurodiverse minds.
+As of September 2026, I am working as a Junior AI Agent Developer at Levocell, a sustainable AI smart energy company in Buckinghamshire. This is now my sole focus long term, and I truly believe we are onto something big that's needed more than ever before, with the state of rising energy costs in the UK. 
+
+I'm always aiming to learn and improve my code and fundamentals, as this is the only part of software that doesn't change every few years, and whatever I am learning I build a side project alongside it. Some of these projects have really kicked on since, and allow me to continue learning in that specific area over time. 
+
+What I build - RAG pipelines, multi-agent tooling, websites + web apps, voice agents, local AI embedded systems and full stack digital products. 
+Currently have a passion project to build Sanctuary, a fully private on device iOS app for neurodiverse minds. This is currently being rolled out on iOS27, using local Apple foundation models. 
 
 I think software should give people time back, not take it from them. Most of what I build is aimed at that, making tech adapt to humans and not the other way around 🤗
 
