@@ -1,4 +1,4 @@
-**Junior AI Agent Developer | Full Stack | Python & TypeScript | AI embedded systems | Chalfont St Giles, Buckinghamshire**
+**AI Agent Developer | Full Stack | Python & TypeScript | AI embedded systems | Chalfont St Peter, Buckinghamshire**
 
 [![Commercial Portfolio](https://img.shields.io/badge/COMMERCIAL_PORTFOLIO-Click_Here-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://thomasjbutler.me)
 [![Personal Portfolio](https://img.shields.io/badge/PERSONAL_PORTFOLIO-Click_Here-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://thomasjbutler.github.io)
