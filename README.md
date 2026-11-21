@@ -13,7 +13,7 @@ I only took the plunge (no pun intended) into software from a standing start in 
 I took a cloud and data engineering bootcamp in early 2023 and went on to work 18 months as an apprentice developer at a HubSpot agency in Cheshire. 
 From December 2024 I was building under a personal AI startup - fully solo, with a lot of shipping, whilst working the odd jobs to keep the lights on, and continue my development passion. 
 
-As of September 2026, I am working as a Junior AI Agent Developer at Levocell, a sustainable AI smart energy company in Buckinghamshire. This is now my sole focus long term, and I truly believe we are onto something big that's needed more than ever before, with the state of rising energy costs in the UK. 
+As of September 2026, I am working as a AI Agent Developer at Levocell, a sustainable AI smart energy company in Buckinghamshire. This is now my sole focus long term, and I truly believe we are onto something big that's needed more than ever before, with the state of rising energy costs in the UK. 
 
 I'm always aiming to learn and improve my code and fundamentals, as this is the only part of software that doesn't change every few years, and whatever I am learning I build a side project alongside it. Some of these projects have really kicked on since, and allow me to continue learning in that specific area over time. 
 
